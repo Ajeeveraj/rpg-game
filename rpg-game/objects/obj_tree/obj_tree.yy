@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_sand",
+  "%Name":"obj_tree",
   "eventList":[],
   "managed":true,
-  "name":"obj_sand",
+  "name":"obj_tree",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_sand",
-    "path":"sprites/spr_sand/spr_sand.yy",
+    "name":"Sprite19",
+    "path":"sprites/Sprite19/Sprite19.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_sand",
+  "%Name":"obj_open_chest",
   "eventList":[],
   "managed":true,
-  "name":"obj_sand",
+  "name":"obj_open_chest",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_sand",
-    "path":"sprites/spr_sand/spr_sand.yy",
+    "name":"spr_treasure_chest_open",
+    "path":"sprites/spr_treasure_chest_open/spr_treasure_chest_open.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_sand",
-  "eventList":[],
+  "%Name":"Object8",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_guy","path":"objects/obj_guy/obj_guy.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_sand",
+  "name":"Object8",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +28,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"spr_sand",
-    "path":"sprites/spr_sand/spr_sand.yy",
+    "name":"spr_treasure_chest",
+    "path":"sprites/spr_treasure_chest/spr_treasure_chest.yy",
   },
   "spriteMaskId":null,
   "visible":true,
