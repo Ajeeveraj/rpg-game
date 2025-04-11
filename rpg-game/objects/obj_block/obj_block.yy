@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_tree",
+  "%Name":"obj_block",
   "eventList":[],
   "managed":true,
-  "name":"obj_tree",
+  "name":"obj_block",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -26,10 +26,10 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
-    "name":"spr_tree",
-    "path":"sprites/spr_tree/spr_tree.yy",
+    "name":"spr_block",
+    "path":"sprites/spr_block/spr_block.yy",
   },
   "spriteMaskId":null,
   "visible":true,

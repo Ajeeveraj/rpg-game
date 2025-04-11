@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_treasure_chest_open",
-    "path":"sprites/spr_treasure_chest_open/spr_treasure_chest_open.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

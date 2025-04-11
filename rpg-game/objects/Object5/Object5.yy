@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_chest",
-    "path":"sprites/spr_chest/spr_chest.yy",
+    "name":"spr_room",
+    "path":"sprites/spr_room/spr_room.yy",
   },
   "spriteMaskId":null,
   "visible":true,
