@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object5",
+  "%Name":"obj_return",
   "eventList":[],
   "managed":true,
-  "name":"Object5",
+  "name":"obj_return",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_room",
-    "path":"sprites/spr_room/spr_room.yy",
+    "name":"spr_return",
+    "path":"sprites/spr_return/spr_return.yy",
   },
   "spriteMaskId":null,
   "visible":true,
