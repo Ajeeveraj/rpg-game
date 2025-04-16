@@ -37,12 +37,18 @@
   "resources":[
     {"id":{"name":"obj_barrier","path":"objects/obj_barrier/obj_barrier.yy",},},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"id":{"name":"obj_black","path":"objects/obj_black/obj_black.yy",},},
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 =======
     {"id":{"name":"obj_black","path":"objects/obj_black/obj_black.yy",},},
 >>>>>>> 04f757f36857ca7177bce6fb0bfbb8987eb14a8c
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     {"id":{"name":"obj_blackblock","path":"objects/obj_blackblock/obj_blackblock.yy",},},
     {"id":{"name":"obj_block","path":"objects/obj_block/obj_block.yy",},},
@@ -51,14 +57,20 @@
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"obj_enemy2","path":"objects/obj_enemy2/obj_enemy2.yy",},},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"id":{"name":"obj_ghost","path":"objects/obj_ghost/obj_ghost.yy",},},
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
     {"id":{"name":"obj_escape","path":"objects/obj_escape/obj_escape.yy",},},
     {"id":{"name":"obj_grass","path":"objects/obj_grass/obj_grass.yy",},},
 =======
     {"id":{"name":"obj_ghost","path":"objects/obj_ghost/obj_ghost.yy",},},
 >>>>>>> 04f757f36857ca7177bce6fb0bfbb8987eb14a8c
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     {"id":{"name":"obj_guy","path":"objects/obj_guy/obj_guy.yy",},},
     {"id":{"name":"obj_key","path":"objects/obj_key/obj_key.yy",},},
@@ -69,10 +81,13 @@
     {"id":{"name":"obj_open_chest","path":"objects/obj_open_chest/obj_open_chest.yy",},},
     {"id":{"name":"obj_tree","path":"objects/obj_tree/obj_tree.yy",},},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"id":{"name":"obj_water","path":"objects/obj_water/obj_water.yy",},},
     {"id":{"name":"obj_world2","path":"objects/obj_world2/obj_world2.yy",},},
     {"id":{"name":"Object21","path":"objects/Object21/Object21.yy",},},
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
     {"id":{"name":"obj_world2","path":"objects/obj_world2/obj_world2.yy",},},
     {"id":{"name":"Object15","path":"objects/Object15/Object15.yy",},},
@@ -81,18 +96,27 @@
     {"id":{"name":"obj_world2","path":"objects/obj_world2/obj_world2.yy",},},
     {"id":{"name":"Object21","path":"objects/Object21/Object21.yy",},},
 >>>>>>> 04f757f36857ca7177bce6fb0bfbb8987eb14a8c
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"id":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 =======
     {"id":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
 >>>>>>> 04f757f36857ca7177bce6fb0bfbb8987eb14a8c
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     {"id":{"name":"cave","path":"sprites/cave/cave.yy",},},
     {"id":{"name":"character","path":"sprites/character/character.yy",},},
@@ -112,11 +136,17 @@
     {"id":{"name":"Spr_enemy_1","path":"sprites/Spr_enemy_1/Spr_enemy_1.yy",},},
     {"id":{"name":"spr_enemy2","path":"sprites/spr_enemy2/spr_enemy2.yy",},},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
     {"id":{"name":"spr_escaape","path":"sprites/spr_escaape/spr_escaape.yy",},},
 =======
 >>>>>>> 04f757f36857ca7177bce6fb0bfbb8987eb14a8c
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     {"id":{"name":"spr_ghost","path":"sprites/spr_ghost/spr_ghost.yy",},},
     {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},},
@@ -137,10 +167,13 @@
     {"id":{"name":"Sprite20","path":"sprites/Sprite20/Sprite20.yy",},},
     {"id":{"name":"Sprite21","path":"sprites/Sprite21/Sprite21.yy",},},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"id":{"name":"Sprite31","path":"sprites/Sprite31/Sprite31.yy",},},
     {"id":{"name":"Sprite32","path":"sprites/Sprite32/Sprite32.yy",},},
     {"id":{"name":"Sprite37","path":"sprites/Sprite37/Sprite37.yy",},},
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
     {"id":{"name":"Sprite29","path":"sprites/Sprite29/Sprite29.yy",},},
     {"id":{"name":"Sprite34","path":"sprites/Sprite34/Sprite34.yy",},},
@@ -149,6 +182,9 @@
     {"id":{"name":"Sprite32","path":"sprites/Sprite32/Sprite32.yy",},},
     {"id":{"name":"Sprite37","path":"sprites/Sprite37/Sprite37.yy",},},
 >>>>>>> 04f757f36857ca7177bce6fb0bfbb8987eb14a8c
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
     {"id":{"name":"TileSet1","path":"tilesets/TileSet1/TileSet1.yy",},},
     {"id":{"name":"TileSet2","path":"tilesets/TileSet2/TileSet2.yy",},},
@@ -163,12 +199,18 @@
     {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
     {"roomId":{"name":"Room3","path":"rooms/Room3/Room3.yy",},},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
 =======
     {"roomId":{"name":"Room4","path":"rooms/Room4/Room4.yy",},},
 >>>>>>> 04f757f36857ca7177bce6fb0bfbb8987eb14a8c
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   ],
   "templateType":"game",

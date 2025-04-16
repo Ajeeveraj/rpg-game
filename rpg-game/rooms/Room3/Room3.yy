@@ -7,7 +7,10 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
     {"name":"inst_26E6B35C","path":"rooms/Room3/Room3.yy",},
     {"name":"inst_6B26415E","path":"rooms/Room3/Room3.yy",},
@@ -40,6 +43,9 @@
       ],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Sprite34","path":"sprites/Sprite34/Sprite34.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
+=======
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     {"name":"inst_51B9CF5D","path":"rooms/Room3/Room3.yy",},
@@ -129,6 +135,10 @@
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":600,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> 04f757f36857ca7177bce6fb0bfbb8987eb14a8c
+>>>>>>> Stashed changes
 =======
 >>>>>>> 04f757f36857ca7177bce6fb0bfbb8987eb14a8c
 >>>>>>> Stashed changes
@@ -150,7 +160,10 @@
   "resourceVersion":"2.0",
   "roomSettings":{
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
     "Height":4000,
     "inheritRoomSettings":false,
@@ -160,6 +173,9 @@
   "sequenceId":null,
   "views":[
     {"hborder":200,"hport":800,"hspeed":-1,"hview":500,"inherit":false,"objectId":{"name":"obj_guy","path":"objects/obj_guy/obj_guy.yy",},"vborder":200,"visible":true,"vspeed":-1,"wport":1366,"wview":830,"xport":0,"xview":0,"yport":0,"yview":0,},
+=======
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
     "Height":2000,
@@ -171,6 +187,10 @@
   "views":[
     {"hborder":200,"hport":768,"hspeed":-1,"hview":500,"inherit":false,"objectId":{"name":"obj_guy","path":"objects/obj_guy/obj_guy.yy",},"vborder":200,"visible":true,"vspeed":-1,"wport":1800,"wview":830,"xport":0,"xview":0,"yport":0,"yview":0,},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> 04f757f36857ca7177bce6fb0bfbb8987eb14a8c
+>>>>>>> Stashed changes
 =======
 >>>>>>> 04f757f36857ca7177bce6fb0bfbb8987eb14a8c
 >>>>>>> Stashed changes

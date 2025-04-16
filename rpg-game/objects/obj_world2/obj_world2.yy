@@ -29,9 +29,12 @@
   "solid":false,
   "spriteId":{
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     "name":"Sprite32",
     "path":"sprites/Sprite32/Sprite32.yy",
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
     "name":"Sprite29",
     "path":"sprites/Sprite29/Sprite29.yy",
@@ -39,6 +42,9 @@
     "name":"Sprite32",
     "path":"sprites/Sprite32/Sprite32.yy",
 >>>>>>> 04f757f36857ca7177bce6fb0bfbb8987eb14a8c
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
+=======
 >>>>>>> Stashed changes
   },
   "spriteMaskId":null,

@@ -395,6 +395,10 @@
     {"name":"inst_46EB8D0C","path":"rooms/Room2/Room2.yy",},
     {"name":"inst_786AD6C","path":"rooms/Room2/Room2.yy",},
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> 04f757f36857ca7177bce6fb0bfbb8987eb14a8c
+>>>>>>> Stashed changes
 =======
 >>>>>>> 04f757f36857ca7177bce6fb0bfbb8987eb14a8c
 >>>>>>> Stashed changes
@@ -403,7 +407,10 @@
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances_2","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 =======
+=======
+>>>>>>> Stashed changes
 <<<<<<< HEAD
         {"$GMRInstance":"v1","%Name":"inst_5CA475E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5CA475E","objectId":{"name":"obj_barrier","path":"objects/obj_barrier/obj_barrier.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":68.3,"scaleY":1.3,"x":0.0,"y":-26.0,},
         {"$GMRInstance":"v1","%Name":"inst_7E64AC64","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7E64AC64","objectId":{"name":"obj_barrier","path":"objects/obj_barrier/obj_barrier.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":1.2937741,"scaleX":10.5,"scaleY":50.999996,"x":1391.6844,"y":-52.672195,},
@@ -443,6 +450,9 @@
           -6,-2147483648,-80,232,-6,-2147483648,-80,232,-6,-2147483648,-80,232,-6,-2147483648,-80,232,-6,-2147483648,
           -80,232,-6,-2147483648,-80,232,-6,-2147483648,-80,232,-6,-2147483648,-80,232,-6,-2147483648,-80,232,
           -6,-2147483648,-80,232,
+=======
+<<<<<<< Updated upstream
+>>>>>>> Stashed changes
 =======
 >>>>>>> Stashed changes
         {"$GMRInstance":"v1","%Name":"inst_44B58D10","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_44B58D10","objectId":{"name":"obj_nextroom1","path":"objects/obj_nextroom1/obj_nextroom1.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":0.0,},
@@ -869,6 +879,10 @@
           -2147483648,-13,232,-50,-2147483648,-13,232,-50,-2147483648,-13,232,-50,-2147483648,-13,232,-50,-2147483648,
           -13,232,-50,-2147483648,-13,232,-50,-2147483648,-13,232,-50,-2147483648,-13,232,-44,-2147483648,
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+=======
+>>>>>>> 04f757f36857ca7177bce6fb0bfbb8987eb14a8c
+>>>>>>> Stashed changes
 =======
 >>>>>>> 04f757f36857ca7177bce6fb0bfbb8987eb14a8c
 >>>>>>> Stashed changes
