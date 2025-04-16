@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_world2",
+  "%Name":"obj_grass",
   "eventList":[],
   "managed":true,
-  "name":"obj_world2",
+  "name":"obj_grass",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
@@ -28,18 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-<<<<<<< Updated upstream
-    "name":"Sprite32",
-    "path":"sprites/Sprite32/Sprite32.yy",
-=======
-<<<<<<< HEAD
-    "name":"Sprite29",
-    "path":"sprites/Sprite29/Sprite29.yy",
-=======
-    "name":"Sprite32",
-    "path":"sprites/Sprite32/Sprite32.yy",
->>>>>>> 04f757f36857ca7177bce6fb0bfbb8987eb14a8c
->>>>>>> Stashed changes
+    "name":"spr_grass",
+    "path":"sprites/spr_grass/spr_grass.yy",
   },
   "spriteMaskId":null,
   "visible":true,
