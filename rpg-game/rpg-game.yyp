@@ -59,12 +59,15 @@
     {"id":{"name":"obj_enemy","path":"objects/obj_enemy/obj_enemy.yy",},},
     {"id":{"name":"obj_enemy2","path":"objects/obj_enemy2/obj_enemy2.yy",},},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"id":{"name":"obj_flag","path":"objects/obj_flag/obj_flag.yy",},},
 =======
 <<<<<<< HEAD
 <<<<<<< Updated upstream
 <<<<<<< Updated upstream
 >>>>>>> baab031e1ca1c495fed6a8c115b80b98f2c784e6
+=======
+>>>>>>> parent of 4dec2aa (ship)
     {"id":{"name":"obj_ghost","path":"objects/obj_ghost/obj_ghost.yy",},},
 =======
 =======
@@ -146,6 +149,7 @@
     {"id":{"name":"Spr_enemy_1","path":"sprites/Spr_enemy_1/Spr_enemy_1.yy",},},
     {"id":{"name":"spr_enemy2","path":"sprites/spr_enemy2/spr_enemy2.yy",},},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"id":{"name":"spr_flag","path":"sprites/spr_flag/spr_flag.yy",},},
 =======
 <<<<<<< HEAD
@@ -163,6 +167,8 @@
 =======
 >>>>>>> Stashed changes
 >>>>>>> baab031e1ca1c495fed6a8c115b80b98f2c784e6
+=======
+>>>>>>> parent of 4dec2aa (ship)
     {"id":{"name":"spr_ghost","path":"sprites/spr_ghost/spr_ghost.yy",},},
     {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},},
 =======
@@ -171,10 +177,13 @@
     {"id":{"name":"spr_return","path":"sprites/spr_return/spr_return.yy",},},
     {"id":{"name":"spr_room","path":"sprites/spr_room/spr_room.yy",},},
 <<<<<<< HEAD
+<<<<<<< HEAD
     {"id":{"name":"spr_ship","path":"sprites/spr_ship/spr_ship.yy",},},
 =======
     {"id":{"name":"spr_sand","path":"sprites/spr_sand/spr_sand.yy",},},
 >>>>>>> baab031e1ca1c495fed6a8c115b80b98f2c784e6
+=======
+>>>>>>> parent of 4dec2aa (ship)
     {"id":{"name":"Spr_tileset","path":"sprites/Spr_tileset/Spr_tileset.yy",},},
     {"id":{"name":"spr_tree","path":"sprites/spr_tree/spr_tree.yy",},},
     {"id":{"name":"spr_world2","path":"sprites/spr_world2/spr_world2.yy",},},
@@ -213,9 +222,12 @@
     {"id":{"name":"TileSet4","path":"tilesets/TileSet4/TileSet4.yy",},},
 <<<<<<< HEAD
     {"id":{"name":"TileSet5","path":"tilesets/TileSet5/TileSet5.yy",},},
+<<<<<<< HEAD
     {"id":{"name":"TileSet6","path":"tilesets/TileSet6/TileSet6.yy",},},
 =======
 >>>>>>> baab031e1ca1c495fed6a8c115b80b98f2c784e6
+=======
+>>>>>>> parent of 4dec2aa (ship)
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

@@ -2,9 +2,15 @@
   "$GMSprite":"",
   "%Name":"spr_world2",
   "bboxMode":0,
+<<<<<<< HEAD:rpg-game/sprites/spr_world2/spr_world2.yy
   "bbox_bottom":0,
   "bbox_left":0,
   "bbox_right":0,
+=======
+  "bbox_bottom":1199,
+  "bbox_left":0,
+  "bbox_right":1199,
+>>>>>>> parent of 4dec2aa (ship):rpg-game/sprites/Sprite37/Sprite37.yy
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +22,11 @@
   ],
   "gridX":0,
   "gridY":0,
+<<<<<<< HEAD:rpg-game/sprites/spr_world2/spr_world2.yy
   "height":64,
+=======
+  "height":1200,
+>>>>>>> parent of 4dec2aa (ship):rpg-game/sprites/Sprite37/Sprite37.yy
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"6dd78c63-8655-458b-9e00-117aaf8fb4a4","blendMode":0,"displayName":"default","isLocked":false,"name":"6dd78c63-8655-458b-9e00-117aaf8fb4a4","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +96,9 @@
   },
   "type":0,
   "VTile":false,
+<<<<<<< HEAD:rpg-game/sprites/spr_world2/spr_world2.yy
   "width":64,
+=======
+  "width":1200,
+>>>>>>> parent of 4dec2aa (ship):rpg-game/sprites/Sprite37/Sprite37.yy
 }
